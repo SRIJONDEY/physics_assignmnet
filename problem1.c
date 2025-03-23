@@ -50,4 +50,5 @@ int main()
  {
  printf("Color: out of visible range\n");
  }
- return 0
+ return 0;
+}
